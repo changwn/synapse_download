@@ -1,7 +1,7 @@
 #If you wish run code on local computer, just need install below packages.
 #install.packages("synapser", repos=c("https://sage-bionetworks.github.io/ran", "http://cran.fhcrc.org"))
 
-#If you wish run code on server, jyou also need install below packages.
+#If you wish run code on server, you also need install below packages.
 #install.packages("PythonEmbedInR", repos=c("http://cran.fhcrc.org", "https://sage-bionetworks.github.io/ran"))
 
 library(synapser)
